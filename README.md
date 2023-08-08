@@ -25,3 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bp4sp4&show_icons=true&locale=en" alt="bp4sp4" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
