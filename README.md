@@ -25,17 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bp4sp4&show_icons=true&locale=en" alt="bp4sp4" /></p>
 
-  on:
-    schedule:
-      # Runs at 12am IST
-      - cron: '30 18 * * *'
-    workflow_dispatch:
-  jobs:
-    update-readme:
-      name: Update Readme with Metrics
-      runs-on: ubuntu-latest
-      steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.waka_0deb97a9-d672-4fef-8684-de43e1d3d77e}}
-            GH_TOKEN: ${{ secrets.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 }}
