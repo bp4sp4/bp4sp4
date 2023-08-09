@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bp4sp4&show_icons=true&locale=en&layout=compact" alt="bp4sp4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bp4sp4&show_icons=true&locale=en" alt="bp4sp4" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ㅠㅔ4네4)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
