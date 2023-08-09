@@ -24,7 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bp4sp4&show_icons=true&locale=en&layout=compact" alt="bp4sp4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bp4sp4&show_icons=true&locale=en" alt="bp4sp4" /></p>
-<!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bp4sp4)](https://github.com/bvp4sp4/github-readme-stats)
-<!--END_SECTION:waka-->
 
