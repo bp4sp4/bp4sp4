@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+    # cron: '00 15 * * *'로 하면 한국 시간 기준으로 오전 12:00에 업데이트 된다
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ waka_282d7ca0-4f94-4695-b4be-e4eec9407650 }}
+          GH_TOKEN: ${{ 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 }}
