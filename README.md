@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [PortFolio](https://github.com/bp4sp4/MyPortFolio)
 
-- 🌱 I’m currently learning **React**
-
 - 🌱 I’m currently learning [React](https://github.com/bp4sp4/React)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
