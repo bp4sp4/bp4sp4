@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [MoviePlaza](https://github.com/bp4sp4/MoviePlaza)
 
-- 🌱 I’m currently learning **React expected**
-
 - 🔭 I’m currently working on [PortFolio](https://github.com/bp4sp4/MyPortFolio)
+
+- 🌱 I’m currently learning **React**
 
 - 🌱 I’m currently learning [VanillaJS](https://github.com/bp4sp4/React)
 
