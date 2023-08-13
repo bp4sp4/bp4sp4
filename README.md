@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning [VanillaJS](https://github.com/bp4sp4/React)
+- 🌱 I’m currently learning [React](https://github.com/bp4sp4/React)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
