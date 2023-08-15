@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PortFolio](https://github.com/bp4sp4/MyPortFolio)
 
-- 🌱 I’m currently learning [React][https://github.com/bp4sp4/React](https://github.com/bp4sp4/MovieWebService)
+- 🌱 I’m currently learning [React](https://github.com/bp4sp4/MovieWebService)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
