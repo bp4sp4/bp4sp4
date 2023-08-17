@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">FrontEnd Developer & Web Publisher</h3>
 
 - 🔭 I’m currently working on [MoviePlaza](https://github.com/bp4sp4/MoviePlaza)
 
