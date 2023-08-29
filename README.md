@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MoviePlaza](https://github.com/bp4sp4/MoviePlaza)
 
-- 🔭 I’m currently working on [PortFolio](https://github.com/bp4sp4/Wedding)
+- 🔭 I’m currently working on [WeddingViedoPage(Private)](https://github.com/bp4sp4/Wedding)
 
 - 🌱 I’m currently learning [React](https://github.com/bp4sp4/MovieWebService)
 
