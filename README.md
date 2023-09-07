@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WeddingViedoPage(Private)](https://github.com/bp4sp4/Wedding)
 
-- 🌱 I’m currently learning [React](https://github.com/bp4sp4/MovieWebService)
+- 🌱 I’m currently learning [nwitter with React ](https://github.com/bp4sp4/nwitter)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
