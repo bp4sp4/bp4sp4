@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
 <h3 align="center">FrontEnd Developer & Web Publisher</h3>
 
-- 🔭 I’m currently working on [MoviePlaza](https://github.com/bp4sp4/MoviePlaza)
+- 🔭 I’m currently working on [MoviePlaza] - Publishing (https://github.com/bp4sp4/MoviePlaza)
 
-- 🔭 I’m currently working on [WeddingViedoPage(Private)](https://github.com/bp4sp4/Wedding)
+- 🔭 I’m currently working on [WeddingViedoPage - Spring (Private)](https://github.com/bp4sp4/Wedding)
 
-- 🌱 I’m currently learning [nwitter with React ](https://github.com/bp4sp4/nwitter)
+- 🌱 I’m currently learning [nwitter - React with Firebase](https://github.com/bp4sp4/nwitter)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
