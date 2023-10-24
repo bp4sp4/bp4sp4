@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [MoviePlaza - Publishing](https://github.com/bp4sp4/MoviePlaza)
 
+- 🔭 I’m currently working on [WeddingLery - Publishing](https://github.com/bp4sp4/WeddingVideoPage)
+- 
 - 🔭 I’m currently working on [WeddingViedoPage - Spring(Private)](https://github.com/bp4sp4/Wedding)
 
 - 🌱 I’m currently learning [nwitter - React with Firebase](https://github.com/bp4sp4/nwitter)
