@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [WeddingViedoPage - Spring(Private)](https://github.com/bp4sp4/Wedding)
 
-- 🌱 I’m currently learning [nwitter - React with Firebase](https://github.com/bp4sp4/nwitter) later
-
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
 - 📫 How to reach me **bp4ps4@naver.com or bp4sp456@gmail.com**
