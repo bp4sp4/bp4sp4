@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
 <h3 align="center">FrontEnd Developer & Web Publisher</h3>
 
-- 🔭 I’m currently working on [MoviePlaza(Demo) - Publishing](https://github.com/bp4sp4/MoviePlaza)
+
 
 - 🔭 I’m currently working on [WeddingLery(Demo) - Publishing](https://github.com/bp4sp4/WeddingVideoPage)
 
 - 🔭 I’m currently working on [WeddingViedoPage - Spring(Private)](https://github.com/bp4sp4/Wedding)
+
+- - 🔭 I’m currently working on [MoviePlaza(Demo) - Publishing](https://github.com/bp4sp4/MoviePlaza)(End)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
