@@ -2,12 +2,11 @@
 <h3 align="center">FrontEnd Developer & Web Publisher</h3>
 
 
+- 🔭 I’m currently working on [Diary - FrondEnd(React)](https://github.com/bp4sp4/Diary)
 
-- 🔭 I’m currently working on [WeddingLery(Demo) - Publishing](https://github.com/bp4sp4/WeddingVideoPage) (End)
+- 🔭 I’m worked [WeddingLery(Demo) - Publishing](https://github.com/bp4sp4/WeddingVideoPage) (End)
 
-- 🔭 I’m currently working on [WeddingViedoPage - Spring(Private)](https://github.com/bp4sp4/Wedding)
-
-- 🔭 I’m currently working on [MoviePlaza(Demo) - Publishing](https://github.com/bp4sp4/MoviePlaza) (End)
+- 🔭 I’m worked [MoviePlaza(Demo) - Publishing](https://github.com/bp4sp4/MoviePlaza) (End)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
