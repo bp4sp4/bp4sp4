@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
-<h3 align="center">FrontEnd Developer & Web Publisher</h3>
+<h3 align="center">FrontEnd Developer & Web Publisher</h3><hr>
 
 
 - 🔭 I’m currently working on [Diary - FrondEnd(React)](https://github.com/bp4sp4/Diary)
