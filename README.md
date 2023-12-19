@@ -2,7 +2,7 @@
 <h3 align="center">FrontEnd Developer & Web Publisher</h3><hr>
 
 
-- 🔭 I’m currently working on [Diary - FrondEnd(React)](https://github.com/bp4sp4/Diary)
+- 🔭 I’m currently working on [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)
 
 - 🔭 I’m worked [WeddingLery(Demo) - Publishing](https://github.com/bp4sp4/WeddingVideoPage) (End)
 
