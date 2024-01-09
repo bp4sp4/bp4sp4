@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)
 
+- 🔭 I’m currently working on [KoKoaTalk CloneCoding - FrontEnd](https://github.com/bp4sp4/KOKOA-CLONE)
+
 - 🔭 I’m worked [WeddingLery(Demo) - Publishing](https://github.com/bp4sp4/WeddingVideoPage) (End)
 
 - 🔭 I’m worked [MoviePlaza(Demo) - Publishing](https://github.com/bp4sp4/MoviePlaza) (End)
