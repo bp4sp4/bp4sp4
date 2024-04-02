@@ -2,7 +2,7 @@
 <h3 align="center">FrontEnd Developer & Web Publisher</h3><hr>
 
 
-- 🔭 I’m currently working on [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)
+- 🔭 I’m worked [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)
 
 - 🔭 I’m worked [PortFolio - MiniProject](https://github.com/bp4sp4/PortFolio) (End)
 
