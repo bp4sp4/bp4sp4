@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
 <h3 align="center">FrontEnd Developer & Web Publisher</h3>
-<h3 align="center><a href="https://frontdevpark.tistory.com/">Blog</a></h3>
+<h3 align="center"><a href="https://frontdevpark.tistory.com/">Blog</a></h3>
 <hr>
 
 
