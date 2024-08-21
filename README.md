@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm SangHunPark</h1>
-<h3 align="center">FrontEnd Developer & Web Publisher</h3><hr>
+<h3 align="center">FrontEnd Developer & Web Publisher</h3>
+<h3 align="center><a href="https://frontdevpark.tistory.com/">Blog</a></h3>
+<hr>
+
 
 
 - 🔭 I’m worked [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary) (End)
