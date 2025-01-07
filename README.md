@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://frontdevpark.tistory.com/">Blog</a></h3>
 <hr>
 
-- 🔭 I’m working [Gallery - Publishing]([https://github.com/bp4sp4/TM-Media](https://github.com/bp4sp4/CSSGrid)) (End)
+- 🔭 I’m working [Gallery - Publishing](https://github.com/bp4sp4/CSSGrid) (End)
 
 - 🔭 I’m working [TM media - Publishing](https://github.com/bp4sp4/TM-Media) (End)
 
