@@ -15,7 +15,7 @@
 
 - 🔭 I’m worked [Relux - FullStack](https://github.com/bp4sp4/ReLux) (End)
 
-- 🔭 I’m worked [PortFolio - MiniProject](https://github.com/bp4sp4/PortFolio](https://github.com/bp4sp4/portfolio_ver2) (End)
+- 🔭 I’m worked [PortFolio - MiniProject](https://github.com/bp4sp4/portfolio_ver2) (End)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
