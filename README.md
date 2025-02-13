@@ -25,7 +25,7 @@
 - 💼 [Relux - FullStack](https://github.com/bp4sp4/ReLux)
 
 📌 **Mini Projects**  
-- - 🎨 [Gallery - Publishing](https://github.com/bp4sp4/CSSGrid)  
+- 🎨 [Gallery - Publishing](https://github.com/bp4sp4/CSSGrid)  
 
 ---
 
