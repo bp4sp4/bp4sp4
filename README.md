@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SangHun Park</h1>
-<h3 align="center">FrontEnd Developer & Web Publisher</h3>
+<h3 align="center">FrontEnd Developer & Web Publisher & QA Tester</h3>
 
 <div align="center">
   <h2>
     <a href="https://frontdevpark.tistory.com/"><strong>🚀 Blog</strong></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://portfolio-shpark.vercel.app/"><strong>🎨 Portfolio</strong></a>
   </h2>
 </div>
