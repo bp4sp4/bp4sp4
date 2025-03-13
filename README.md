@@ -19,7 +19,8 @@
 
 📌 **Frontend (React) Projects**  
 - 🚀 [HtmlStudy - FrondEnd(React)](https://github.com/bp4sp4/HtmlStudy)  
-- 🎮 [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)  
+- 🎮 [LostArk Open-API - FrondEnd(React)](https://github.com/bp4sp4/Diary)
+- 🗒️ [InteractUI - FrondEnd(Next.js)](https://github.com/bp4sp4/notinghomepage)  
 
 📌 **FullStack Projects**  
 - 💼 [Relux - FullStack](https://github.com/bp4sp4/ReLux)
