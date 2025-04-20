@@ -5,7 +5,7 @@
   <h2>
     <a href="https://frontdevpark.tistory.com/"><strong>🚀 Blog</strong></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://portfolio-shpark.vercel.app/](https://bp4sp4.github.io/portfolio_ver2/"><strong>🎨 Portfolio</strong></a>
+    <a href="https://webs-portfolio.vercel.app/"><strong>🎨 Portfolio</strong></a>
   </h2>
 </div>
 
