@@ -26,8 +26,9 @@
 ## 👨‍💻 About Me
 
 ```txt
+🏢  현재 한평생그룹에서 웹 개발을 담당하고 있습니다.
 🎯  Frontend를 중심으로 Web Publishing, QA까지 경험한 개발자입니다.
-🌱  현재 Next.js와 TypeScript를 깊게 공부 중입니다.
+🌱  Next.js + TypeScript 기반의 실무 프로젝트를 진행 중입니다.
 💡  HTML5, CSS3, JavaScript에 대해 편하게 질문해 주세요!
 ```
 
@@ -35,24 +36,26 @@
 
 ## 🚀 Projects
 
-### 📌 Publishing
+### 🏢 한평생그룹 (Korhrd) — 실무 프로젝트
 | Project | Description |
 |---------|-------------|
-| 🎭 [TM media](https://github.com/bp4sp4/TM-Media) | Media 사이트 퍼블리싱 |
-| 💍 [WeddingLery (Demo)](https://github.com/bp4sp4/WeddingVideoPage) | 웨딩 영상 소개 페이지 |
+| 🎓 [KorhrdDev](https://github.com/bp4sp4/KorhrdDev) | 프론트엔드 개발 표준 & 디자인 가이드 |
+| 🏥 [AllCare](https://github.com/bp4sp4/allcare) | 올케어 서비스 플랫폼 |
+| 📋 [EducationSystem](https://github.com/bp4sp4/EducationSystem) | 한평생 교육 관리 시스템 |
+| 💳 [CreditPrepayment](https://github.com/bp4sp4/creditprepayment) | 취업자격증 발급비 선납 서비스 |
+| 🔗 [CreditBridge](https://github.com/bp4sp4/creditbridge) | 취업자격증 연계 신청 서비스  |
+| 👔 [BaroJob](https://github.com/bp4sp4/barojob) | 바로취업 신청 폼 |
+| 🤝 [BaroSocial](https://github.com/bp4sp4/barosocial) | 학점은행제 신청 폼 |
+| 🏠 [Momcafe](https://github.com/bp4sp4/korhrd_social_momcafe) | 학점은행제 맘카페 전용 신청 폼|
+| 🔒 [PrivateCert](https://github.com/bp4sp4/korhrd_privatecert) | 개인 인증 서비스 |
+| 📊 [NMS-System](https://github.com/bp4sp4/NMS-System) | NMS 관리 시스템 |
 
-### 📌 Frontend
+### 🧑‍💻 개인 프로젝트
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🚀 [HtmlStudy](https://github.com/bp4sp4/HtmlStudy) | React | HTML/CSS 학습 프로젝트 |
-| 🎮 [LostArk Open-API](https://github.com/bp4sp4/Diary) | React | 로스트아크 오픈 API 연동 |
-| 🗒️ [InteractUI](https://github.com/bp4sp4/notinghomepage) | Next.js | 인터랙티브 UI 프로젝트 |
-
-### 📌 FullStack & Mini
-| Project | Type | Description |
-|---------|------|-------------|
-| 💼 [Relux](https://github.com/bp4sp4/ReLux) | FullStack | 풀스택 프로젝트 |
-| 🎨 [Gallery](https://github.com/bp4sp4/lolmoney) | Mini | 갤러리 미니 프로젝트 |
+| 🎨 [WebsPortfolio](https://github.com/bp4sp4/WebsPortfolio) | Next.js | 개인 포트폴리오 사이트 |
+| 📝 [Readme-Maker](https://github.com/bp4sp4/Readme-Maker) | TypeScript | README 자동 생성 도구 |
+| 🖼️ [ArtGallery](https://github.com/bp4sp4/ArtGallery) | Next.js | 아트 갤러리 프로젝트 |
 
 ---
 
