@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7&height=200&section=header&text=SangHun%20Park&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FrontEnd%20Developer%20%7C%20Web%20Publisher%20%7C%20QA%20Tester&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7&height=200&section=header&text=SangHun%20Park&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=FrontEnd%20Developer%20%7C%20QA%20Tester&descAlignY=58&descSize=18" />
 </div>
 
 <br/>
@@ -26,8 +26,8 @@
 ## 👨‍💻 About Me
 
 ```txt
-🏢  현재 한평생그룹에서 웹 개발을 담당하고 있습니다.
-🎯  Frontend를 중심으로 Web Publishing, QA까지 경험한 개발자입니다.
+🏢  현재 한평생그룹에서 프론트엔드 개발을 담당하고 있습니다.
+🎯  UI 구현부터 QA까지 폭넓게 경험한 개발자입니다.
 🌱  Next.js + TypeScript 기반의 실무 프로젝트를 진행 중입니다.
 💡  HTML5, CSS3, JavaScript에 대해 편하게 질문해 주세요!
 ```
@@ -71,11 +71,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Database & Design**
+**Design & Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools**
 
