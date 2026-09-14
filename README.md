@@ -134,8 +134,13 @@ const sanghun = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bp4sp4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c5ce7&icon_color=a29bfe&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bp4sp4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c5ce7&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bp4sp4&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bp4sp4&theme=tokyonight&utcOffset=9" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp4sp4&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bp4sp4&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -143,7 +148,7 @@ const sanghun = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bp4sp4&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=ffffff&area=true" />
+  <img src="https://ghchart.rshah.org/6c5ce7/bp4sp4" alt="contribution chart" width="100%" />
 </div>
 
 <br/>
@@ -155,8 +160,6 @@ const sanghun = {
     <img alt="contribution snake" src="https://raw.githubusercontent.com/bp4sp4/bp4sp4/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br/>
 
 <div align="center">
   <i>"사용자 입장에서 먼저 테스트하는 개발자를 찾으신다면, 언제든지 연락주세요."</i>
