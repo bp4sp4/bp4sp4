@@ -135,22 +135,13 @@ const sanghun = {
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bp4sp4&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bp4sp4&theme=tokyonight&utcOffset=9" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp4sp4&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bp4sp4&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bp4sp4&theme=tokyonight&hide_border=true&background=0d1117&ring=6c5ce7&fire=a29bfe&currStreakLabel=6c5ce7" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp4sp4&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=bp4sp4&theme=tokyonight&hide_border=true&background=0d1117&ring=6c5ce7&fire=a29bfe&currStreakLabel=6c5ce7" />
 </div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6c5ce7/bp4sp4" alt="contribution chart" width="100%" />
-</div>
-
 <br/>
 
 <div align="center">
